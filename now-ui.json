@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-34391-example-component-counter": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label" : "Example Counter",
+				"icon" : "bell-outline", 
+				"description" : "A visual card format for a record."
+			},
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_34391_voyager_0"
+}
